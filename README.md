@@ -13,5 +13,5 @@ A cobra come a comida ao colidir com ela. Cada vez que a cobra come a comida, su
 ## Obstáculos
 O jogo também inclui obstáculos que a cobra deve evitar. Se a cobra colidir com um obstáculo, o jogo terminará.
 
-Créditos
+# Créditos
 Este jogo foi criado por [João Carlos Rebouças] durante o bootcamp da IBRF<>Tech em parceria com a Gama Academy. O jogo foi criado usando JavaScript, HTML e CSS, com base das aula onlide do Professor Claudio Raposo[https://www.linkedin.com/in/cfraposo/].
