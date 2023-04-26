@@ -2,6 +2,9 @@
 # Jogo da Cobra
 Este é um jogo da cobra criado durante o bootcamp da IBRF<>Tech em parceria com a Gama Academy. O objetivo do jogo é controlar a cobra e fazê-la comer o máximo de comida possível sem colidir com as paredes ou com o próprio corpo.
 
+<img width="916" alt="Screenshot_4" src="https://user-images.githubusercontent.com/70778525/234620784-6ece7f1e-43d1-4d4f-9956-50141b74f70d.png">
+
+
 # Instalação
 Para jogar o jogo, basta baixar os arquivos do repositório e abrir o arquivo index.html em seu navegador da web.
 
